@@ -64,7 +64,8 @@ my %prog_type_to_file_parser = (
     #'TrinityFusion-UC' => 'TrinityFusion_parser',
     'TRINITY.*FUSION' => 'TrinityFusion_parser',
     
-    'STARSEQR' => 'STARSEQR_parser'
+    'STARSEQR' => 'STARSEQR_parser',
+    'DRAGEN' => 'DRAGEN_parser'
     
     );
 

@@ -45,7 +45,8 @@ my %converter = (CHIMERASCAN => 'ChimeraScan',
                  TRINITY_FUSION_UC_hg19 => 'TrinityFusion-UC',
                  TRINITY_FUSION_D_hg19 => 'TrinityFusion-D',
                  STARSEQR => 'STARSEQR',
-                 'STARSEQR_STAR-SEQR' => 'STARSEQR' 
+                 'STARSEQR_STAR-SEQR' => 'STARSEQR',
+                 DRAGEN => 'DRAGEN'
     );
 
 
